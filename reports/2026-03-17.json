@@ -1,0 +1,258 @@
+[
+  {
+    "source": "Hacker News",
+    "title": "The Building Blocks of Agentic AI",
+    "url": "https://ai.meta.com/blog/introducing-pytorch-native-agentic-stack/?_fb_noscript=1",
+    "hn_url": "https://news.ycombinator.com/item?id=47408367",
+    "heat": "1 points",
+    "time": "Today"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tech entrepreneur used AI to help create a cancer vaccine to treat his dog",
+    "url": "https://fortune.com/2026/03/15/australian-tech-entrepreneur-ai-cancer-vaccine-dog-rosie-unsw-mr",
+    "hn_url": "https://news.ycombinator.com/item?id=47408268",
+    "heat": "3 points",
+    "time": "Today"
+  },
+  {
+    "source": "Hacker News",
+    "title": "I told AI to pick the NCAA brackets for me",
+    "url": "https://www.aincaabrackets.com/",
+    "hn_url": "https://news.ycombinator.com/item?id=47408256",
+    "heat": "1 points",
+    "time": "Today"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Monetize AI Agents and APIs with Lightning L402 (HTTP 402)",
+    "url": "https://github.com/Mike-io-hash/satsgate",
+    "hn_url": "https://news.ycombinator.com/item?id=47408241",
+    "heat": "1 points",
+    "time": "Today"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Open-artisan: OpenCode plugin for structured AI workflow orchestration",
+    "url": "https://github.com/yehudacohen/open-artisan/",
+    "hn_url": "https://news.ycombinator.com/item?id=47408238",
+    "heat": "1 points",
+    "time": "Today"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenAI to Cut Back on Side Projects in Push to 'Nail' Core Business",
+    "url": "https://www.wsj.com/tech/ai/openai-chatgpt-side-projects-16b3a825",
+    "hn_url": "https://news.ycombinator.com/item?id=47408190",
+    "heat": "2 points",
+    "time": "Today"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ukraine to Make Drone Videos Available for Training A.I. Models",
+    "url": "https://www.nytimes.com/2026/03/12/world/europe/ukraine-drones-ai-models-training.html",
+    "hn_url": "https://news.ycombinator.com/item?id=47407907",
+    "heat": "5 points",
+    "time": "Today"
+  },
+  {
+    "source": "Hacker News",
+    "title": "BribeAI – Confess your sins to AI, pay a bribe, and pray for survival",
+    "url": "https://bribeai.net",
+    "hn_url": "https://news.ycombinator.com/item?id=47407889",
+    "heat": "2 points",
+    "time": "Today"
+  },
+  {
+    "source": "Hacker News",
+    "title": "In simulation, AI agents coordinated propaganda campaign with no further human",
+    "url": "https://news.ycombinator.com/item?id=47407881",
+    "hn_url": "https://news.ycombinator.com/item?id=47407881",
+    "heat": "2 points",
+    "time": "Today"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Agentic AI Era: How Nvidia Rubin Redefine the Inference Factory",
+    "url": "https://www.buysellram.com/blog/the-agentic-ai-era-how-nvidia-rubin-vera-cpu-groq-3-lpus-bluefield-4-redefine-the-inference-factory/",
+    "hn_url": "https://news.ycombinator.com/item?id=47407820",
+    "heat": "2 points",
+    "time": "Today"
+  },
+  {
+    "source": "GitHub Trending",
+    "title": "666ghj/MiroFish - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "url": "https://github.com/666ghj/MiroFish",
+    "heat": "30,457 stars",
+    "time": "Today"
+  },
+  {
+    "source": "GitHub Trending",
+    "title": "thedotmack/claude-mem - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "heat": "37,015 stars",
+    "time": "Today"
+  },
+  {
+    "source": "GitHub Trending",
+    "title": "Crosstalk-Solutions/project-nomad - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "heat": "1,924 stars",
+    "time": "Today"
+  },
+  {
+    "source": "GitHub Trending",
+    "title": "obra/superpowers - An agentic skills framework & software development methodology that works.",
+    "url": "https://github.com/obra/superpowers",
+    "heat": "89,154 stars",
+    "time": "Today"
+  },
+  {
+    "source": "GitHub Trending",
+    "title": "abhigyanpatwari/GitNexus - GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "heat": "15,759 stars",
+    "time": "Today"
+  },
+  {
+    "source": "GitHub Trending",
+    "title": "lightpanda-io/browser - Lightpanda: the headless browser designed for AI and automation",
+    "url": "https://github.com/lightpanda-io/browser",
+    "heat": "20,383 stars",
+    "time": "Today"
+  },
+  {
+    "source": "GitHub Trending",
+    "title": "volcengine/OpenViking - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+    "url": "https://github.com/volcengine/OpenViking",
+    "heat": "14,361 stars",
+    "time": "Today"
+  },
+  {
+    "source": "GitHub Trending",
+    "title": "shareAI-lab/learn-claude-code - Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+    "url": "https://github.com/shareAI-lab/learn-claude-code",
+    "heat": "29,505 stars",
+    "time": "Today"
+  },
+  {
+    "source": "Wall Street CN",
+    "title": "“存储狂潮”何时见顶？这是最有效的“领先指标”",
+    "url": "https://wallstreetcn.com/articles/3767693",
+    "time": "2026-03-17 11:37"
+  },
+  {
+    "source": "Wall Street CN",
+    "title": "郭明錤：融入英伟达生态，LPU产量将暴增10倍，对PCB供应链有重大影响",
+    "url": "https://wallstreetcn.com/articles/3767694",
+    "time": "2026-03-17 11:30"
+  },
+  {
+    "source": "Wall Street CN",
+    "title": "澳洲联储连续第二次加息至4.1%，中东冲突推高通胀风险",
+    "url": "https://wallstreetcn.com/articles/3767695",
+    "time": "2026-03-17 11:30"
+  },
+  {
+    "source": "Wall Street CN",
+    "title": "这艘油轮刺激了全球市场",
+    "url": "https://wallstreetcn.com/charts/41958746",
+    "time": "2026-03-17 11:15"
+  },
+  {
+    "source": "Wall Street CN",
+    "title": "从化肥到化工--一场伊朗战争引发的“超级硫冲击”",
+    "url": "https://wallstreetcn.com/articles/3767691",
+    "time": "2026-03-17 11:12"
+  },
+  {
+    "source": "Wall Street CN",
+    "title": "牵动全球市场的关键问题：伊朗危机走向何方？",
+    "url": "https://wallstreetcn.com/themes/1008388",
+    "time": ""
+  },
+  {
+    "source": "V2EX",
+    "title": "求助，老婆转移婚内财产、隐瞒财产",
+    "url": "https://www.v2ex.com/t/1198619",
+    "heat": "278 replies",
+    "time": "Hot"
+  },
+  {
+    "source": "V2EX",
+    "title": "相亲女生很喜欢我，我该怎么办？",
+    "url": "https://www.v2ex.com/t/1198703",
+    "heat": "157 replies",
+    "time": "Hot"
+  },
+  {
+    "source": "V2EX",
+    "title": "每天睡 5 个小时会不会死啊？害怕",
+    "url": "https://www.v2ex.com/t/1198687",
+    "heat": "108 replies",
+    "time": "Hot"
+  },
+  {
+    "source": "V2EX",
+    "title": "五年谈的 4 个女朋友，给各位大佬一点借鉴，以及迷茫一下现在！",
+    "url": "https://www.v2ex.com/t/1198831",
+    "heat": "86 replies",
+    "time": "Hot"
+  },
+  {
+    "source": "V2EX",
+    "title": "每次看你们便宜价买的 mba，我的心就在滴血",
+    "url": "https://www.v2ex.com/t/1198637",
+    "heat": "72 replies",
+    "time": "Hot"
+  },
+  {
+    "source": "V2EX",
+    "title": "来惠州玩了一趟，结果舍不得走了😌",
+    "url": "https://www.v2ex.com/t/1198627",
+    "heat": "69 replies",
+    "time": "Hot"
+  },
+  {
+    "source": "Product Hunt",
+    "title": "XHawk 0.99",
+    "url": "https://www.producthunt.com/products/xhawk",
+    "time": "2025-12-16T23:06:23-08:00",
+    "heat": "Top Product"
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Knock",
+    "url": "https://www.producthunt.com/products/knock-7",
+    "time": "2026-03-15T05:06:23-07:00",
+    "heat": "Top Product"
+  },
+  {
+    "source": "Product Hunt",
+    "title": "GitFit.AI",
+    "url": "https://www.producthunt.com/products/gitfit-ai",
+    "time": "2026-03-15T07:29:41-07:00",
+    "heat": "Top Product"
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Donely",
+    "url": "https://www.producthunt.com/products/donely",
+    "time": "2026-03-15T23:50:05-07:00",
+    "heat": "Top Product"
+  },
+  {
+    "source": "Product Hunt",
+    "title": "Masko Code",
+    "url": "https://www.producthunt.com/products/masko-code",
+    "time": "2026-03-15T08:59:08-07:00",
+    "heat": "Top Product"
+  },
+  {
+    "source": "Product Hunt",
+    "title": "MuleRun",
+    "url": "https://www.producthunt.com/products/mulerun",
+    "time": "2026-03-14T01:11:14-07:00",
+    "heat": "Top Product"
+  }
+]

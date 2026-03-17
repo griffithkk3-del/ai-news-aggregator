@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from fetch_news import (
     fetch_hackernews,
     fetch_github,
-    fetch_huggingface,
+    fetch_huggingface_papers,
     fetch_weibo,
     fetch_36kr,
     fetch_wallstreetcn,
@@ -37,7 +37,7 @@ SOURCES = {
         'fetchers': [
             ('hackernews', fetch_hackernews, {'limit': 10, 'keyword': AI_KEYWORDS}),
             ('github', fetch_github, {'limit': 8}),
-            ('huggingface', fetch_huggingface, {'limit': 6}),
+            ('huggingface', fetch_huggingface_papers, {'limit': 6}),
         ]
     },
     'china_news': {
